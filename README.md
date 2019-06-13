@@ -69,7 +69,6 @@ path: .
 domain: mybluemix.net
 instances: 1
 memory: 512M
-
 ```
 
 Podrá ver el proceso anteriormente mencionado en las siguientes imagenes.
@@ -80,7 +79,7 @@ Podrá ver el proceso anteriormente mencionado en las siguientes imagenes.
 
 El nombre de su aplicación será el mismo host que utilice determinar la URL de su aplicación inicialmente, por ejemplo `<host>.mybluemix.net.`
 
-## 
+##  
 
 
 
