@@ -5,7 +5,7 @@ Hands On para construir aplicación del clima utilizando weather company data e 
 ## Índice
 
 * Requisitos previos.
-*
+* Clonación y modificación del repositorio.
 *
 *
 
@@ -19,7 +19,7 @@ Como segundo requisito debe descargar e instalar el CLI de Cloud Foundry, para r
 
 https://github.com/cloudfoundry/cli
 
-#### 
+## Clonación y modificación del repositorio
 
 Primero debe clonar el repositorio de la aplicación el cual lo podra hacer copiando el siguiente comando en su terminal, a su vez podra ver como se hace en la siguiente imagen.
 
@@ -46,6 +46,10 @@ Podrá ver el proceso anteriormente mencionado en las siguientes imagenes.
 <img width="600" alt="2" src="https://user-images.githubusercontent.com/50923637/59446839-e0246280-8dc7-11e9-8132-b130f964c206.png">
 
 <img width="600" alt="3" src="https://user-images.githubusercontent.com/50923637/59446844-e1ee2600-8dc7-11e9-8b3b-b9f0801f56ef.png">
+
+El nombre de su aplicación será el mismo host que utilice determinar la URL de su aplicación inicialmente, por ejemplo `<host>.mybluemix.net.`
+
+## 
 
 [este es el link](https://cloud.ibm.com/docs/search/virtual%20server?locale=es)
 
