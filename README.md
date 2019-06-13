@@ -7,8 +7,8 @@ Hands On para construir aplicación del clima utilizando weather company data e 
 * Requisitos previos.
 * Creación del servicio en Cloud Foundry.
 * Clonación y modificación del repositorio.
-* Modificación del codigo
-*
+* Modificación del codigo.
+* Prueba local de la aplicación.
 
 ## Requisitos previos
 
@@ -84,3 +84,9 @@ El nombre de su aplicación será el mismo host que utilice determinar la URL de
 Para realizar la prueba local de la aplicación debe dar el comando `npm install` en la carpeta del proyecto.
 
 <img width="600" alt="12" src="https://user-images.githubusercontent.com/50923637/59464765-eb3eb900-8dee-11e9-98c9-055f648f55a0.jpg">
+
+Despues de ver que el proceso de instalación termino correctamente, usted debe ejecutar el comando `node app`, en la siguiente imagen podra ver lo mencionado anteriormente y a su vez vera la imagen de la pagina resultante de la aplicación.
+
+<img width="600" alt="13" src="https://user-images.githubusercontent.com/50923637/59465554-c8150900-8df0-11e9-8cf7-0bc7cad3799f.jpg">
+
+`Nota: para que la aplicación funcione usted debe dar el nombre de la región de la cual desea obtener los datos meteorológicos y luego dar clic en cualquier parte de la pantalla para que inicie el proceso.`
