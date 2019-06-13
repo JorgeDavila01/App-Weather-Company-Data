@@ -7,7 +7,7 @@ Hands On para construir aplicación del clima utilizando weather company data e 
 * Requisitos previos.
 * Creación del servicio en Cloud Foundry.
 * Clonación y modificación del repositorio.
-*
+* Modificación del codigo.
 *
 
 ## Requisitos previos
