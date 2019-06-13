@@ -48,7 +48,7 @@ Despues de crear la aplicación debe ir a la sección de credenciales del servic
 
 Luego podrá ver las nuevas credenciales para su servicio como se ve en la siguiente imagen.
 
-<img width="600" alt="10" src="https://user-images.githubusercontent.com/50923637/59451621-7a3cd880-8dd1-11e9-8484-91fb05e6563e.jpg">
+<img width="600" alt="10" src="https://user-images.githubusercontent.com/50923637/59460720-60a58c00-8de5-11e9-857f-220501df2427.jpg">
 
 ## Clonación y modificación del repositorio
 
@@ -84,4 +84,3 @@ El nombre de su aplicación será el mismo host que utilice determinar la URL de
 
 
 [este es el link](https://cloud.ibm.com/docs/search/virtual%20server?locale=es)
-
