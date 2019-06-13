@@ -9,6 +9,7 @@ Hands On para construir aplicación del clima utilizando weather company data e 
 * Clonación y modificación del repositorio.
 * Modificación del codigo.
 * Prueba local de la aplicación.
+* Referencias.
 
 ## Requisitos previos
 
@@ -90,3 +91,7 @@ Despues de ver que el proceso de instalación termino correctamente, usted debe 
 <img width="600" alt="13" src="https://user-images.githubusercontent.com/50923637/59465554-c8150900-8df0-11e9-8cf7-0bc7cad3799f.jpg">
 
 `Nota: para que la aplicación funcione usted debe dar el nombre de la región de la cual desea obtener los datos meteorológicos y luego dar clic en cualquier parte de la pantalla para que inicie el proceso.`
+
+## Referencias
+
+* https://github.com/IBM-Cloud/weather-company-data-demo
