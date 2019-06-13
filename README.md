@@ -19,7 +19,14 @@ Como segundo requisito debe descargar e instalar el CLI de Cloud Foundry, para r
 
 https://github.com/cloudfoundry/cli
 
-#### header 4
+#### 
+
+Primero debe clonar el repositorio de la aplicación el cual lo podra hacer copiando el siguiente comando en su terminal, a su vez podra ver como se hace en la siguiente imagen.
+
+` git clone https://github.com/IBM-Bluemix/weather-company-data-demo.git `
+
+<img width="600" alt="1" src="https://user-images.githubusercontent.com/50923637/59445407-3a6ff400-8dc5-11e9-9c7a-1be02bf35e77.png">
+
 `comentario `
 
 ```
