@@ -7,7 +7,7 @@ Hands On para construir aplicación del clima utilizando weather company data e 
 * Requisitos previos.
 * Creación del servicio en Cloud Foundry.
 * Clonación y modificación del repositorio.
-* Modificación del codigo.
+* Modificación del codigo
 *
 
 ## Requisitos previos
@@ -56,7 +56,7 @@ Primero debe clonar el repositorio de la aplicación el cual lo podra hacer copi
 
 ` git clone https://github.com/JorgeDavila01/demogit.git `
 
-<img width="600" alt="1" src="https://user-images.githubusercontent.com/50923637/59445407-3a6ff400-8dc5-11e9-9c7a-1be02bf35e77.png">
+<img width="600" alt="1" src="https://user-images.githubusercontent.com/50923637/59462941-6356b000-8dea-11e9-9a26-1d6e9ffc898e.png">
 
 Luego debe acceder a la carpeta que se creo al clonar el repositorio, la carpeta quedara con el nombre de **weather-company-data-demo** y estando en esta carpeta debe abrir el archivo de texto del manifest.yml, y en el debe realizar el cambio de **Name** a su gusto tenga en cuenta que sea algo unico y que no este ya creado, en este ejemplo sera llamado como **cambiar-nombre** y guarda dicho cambio.
 
@@ -79,10 +79,9 @@ Podrá ver el proceso anteriormente mencionado en las siguientes imagenes.
 
 El nombre de su aplicación será el mismo host que utilice determinar la URL de su aplicación inicialmente, por ejemplo `<host>.mybluemix.net.`
 
-##  Modificación del codigo
+##  
 
-En el archivo **app.js** usted debe cambiar en la linea 28, los valores de **user** y **password** que puede ver en el codigo, por su usuario y contraseña que se le creo cuando aprovisiono las credenciales a su servicio.
 
-<img width="600" alt="11" src="https://user-images.githubusercontent.com/50923637/59462419-538a9c00-8de9-11e9-8c79-6f68e18ac7a1.jpg">
+
 
 [este es el link](https://cloud.ibm.com/docs/search/virtual%20server?locale=es)
