@@ -83,7 +83,7 @@ El nombre de su aplicación será el mismo host que utilice determinar la URL de
 
 Para realizar la prueba local de la aplicación debe dar el comando `npm install` en la carpeta del proyecto.
 
-<img width="600" alt="12" src="https://user-images.githubusercontent.com/50923637/59464765-eb3eb900-8dee-11e9-98c9-055f648f55a0.jpg">
+<img width="600" high="600" alt="12" src="https://user-images.githubusercontent.com/50923637/59464765-eb3eb900-8dee-11e9-98c9-055f648f55a0.jpg">
 
 Despues de ver que el proceso de instalación termino correctamente, usted debe ejecutar el comando `node app`, en la siguiente imagen podra ver lo mencionado anteriormente y a su vez vera la imagen de la pagina resultante de la aplicación.
 
