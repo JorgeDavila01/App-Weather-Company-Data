@@ -56,7 +56,7 @@ Primero debe clonar el repositorio de la aplicación el cual lo podra hacer copi
 
 ` git clone https://github.com/JorgeDavila01/demogit.git `
 
-<img width="600" alt="1" src="https://user-images.githubusercontent.com/50923637/59462941-6356b000-8dea-11e9-9a26-1d6e9ffc898e.png">
+<img width="600" alt="1" src="https://user-images.githubusercontent.com/50923637/59464606-8c793f80-8dee-11e9-9c15-c3067c7225a9.png">
 
 Luego debe acceder a la carpeta que se creo al clonar el repositorio, la carpeta quedara con el nombre de **weather-company-data-demo** y estando en esta carpeta debe abrir el archivo de texto del manifest.yml, y en el debe realizar el cambio de **Name** a su gusto tenga en cuenta que sea algo unico y que no este ya creado, en este ejemplo sera llamado como **cambiar-nombre** y guarda dicho cambio.
 
@@ -79,9 +79,8 @@ Podrá ver el proceso anteriormente mencionado en las siguientes imagenes.
 
 El nombre de su aplicación será el mismo host que utilice determinar la URL de su aplicación inicialmente, por ejemplo `<host>.mybluemix.net.`
 
-##  
+##  Prueba local de la aplicación
 
+Para realizar la prueba local de la aplicación debe dar el comando `npm install` en la carpeta del proyecto.
 
-
-
-[este es el link](https://cloud.ibm.com/docs/search/virtual%20server?locale=es)
+<img width="600" alt="12" src="https://user-images.githubusercontent.com/50923637/59446844-e1ee2600-8dc7-11e9-8b3b-b9f0801f56ef.png">
