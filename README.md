@@ -83,6 +83,6 @@ El nombre de su aplicación será el mismo host que utilice determinar la URL de
 
 En el archivo **app.js** usted debe cambiar en la linea 28, los valores de user y password que puede ver en el codigo, por su usuario y contraseña que se le creo cuando aprovisiono las credenciales a su servicio.
 
-<img width="600" alt="3" src="https://user-images.githubusercontent.com/50923637/59446844-e1ee2600-8dc7-11e9-8b3b-b9f0801f56ef.png">
+<img width="600" alt="11" src="https://user-images.githubusercontent.com/50923637/59462419-538a9c00-8de9-11e9-8c79-6f68e18ac7a1.jpg">
 
 [este es el link](https://cloud.ibm.com/docs/search/virtual%20server?locale=es)
