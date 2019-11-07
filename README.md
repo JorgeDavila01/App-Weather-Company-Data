@@ -92,9 +92,4 @@ Despues de ver que el proceso de instalación termino correctamente, usted debe 
 
 `Nota: para que la aplicación funcione usted debe dar el nombre de la región de la cual desea obtener los datos meteorológicos y luego dar clic en cualquier parte de la pantalla para que inicie el proceso.`
 
-## Referencias
 
-* https://github.com/IBM-Cloud/weather-company-data-demo
-*
-*
-*
